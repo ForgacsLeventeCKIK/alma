@@ -1,0 +1,39 @@
+													Vastag- és vékonykliensek közti különbségek, NAS eszközök
+	
+	
+-Vastag kliens: Teljes funkcionalitású számítógép, helyi erőforrások
+-Vékony kliens: Minimális hardver, külső szerverre támaszkodik erőforrásokért
+-NAS: Hálozati adattároló, közös hozzáférés
+							
+												SZámítógép-komfiguráció meghatátozása és alkatrészek kiválasztása
+												
+												
+-Felhaszálási cél meghatátozása.
+-Kompatibilis alkatrészek kiválasztása:
+    CPU: és alaplap: Foglalat és chipset egyezése
+	RAM: Típus és sebesség támogatása
+	Tárhely: SATA vagy NVMe interfész
+	Videókártya: PCle csatlakozás, teljesítményigény
+	Tápegység: Megfelelő teljesítmény és csatlakozók
+	Ház: Méret és kompatibilitás az alkatrészekkel
+	
+																		Alkatrészek cseréje
+																	
+																	
+- Kompatibilitás ellenőrzése
+- Régi alkatrészek eltávolítása biztonságosan
+- Új alkatrészek beszerelése a gyártó utasításai szerint
+- Illesztőprogramok telepítése vagy frissitése
+
+																		Szünetmentes tápegység
+																		
+																		
+-Célja: Védelem áramkiaradás és feszültsgingadozás ellen.
+-Típusai:
+			Offline/Standby UPS: Alapvető védelem, átkapcsolás áramkimaradáskor.
+			Line-Interactive UPS: Feszültségszabályozás és átkapcsolás
+			Online UPS: Folyamatos átalakítás és szűrés, legmagasabb szintű védelem.
+-Üzembe helyezés:
+			UPS csatlakoztatása a hálózathoz és a terhelésekhez.
+			Szoftver telepítése a számítógépre
+			Beállítsok konfigurálás (automatikus leállítás, értesítések)
